@@ -64,7 +64,7 @@ Before running the project, ensure you have the following installed:
    
 
 ## 👥 Team Members  
-1. [Raj Desai](https://github.com/rajdesai17)  
+<!-- 1. [Raj Desai](https://github.com/rajdesai17)   -->
 2. [Adesh Ingale](https://github.com/adeshingale3)  
  
 

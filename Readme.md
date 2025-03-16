@@ -4,7 +4,7 @@
 Aquify is a crowdsourced web platform that maps and promotes free water refill stations, encouraging individuals to reduce plastic bottle waste. Users can discover nearby refill stations, contribute new locations, and provide feedback on water quality. The platform gamifies user engagement through a reward system, motivating sustainable behavior. Aquify also offers businesses the opportunity to list their refill stations, enhancing their eco-friendly branding while increasing foot traffic.  
 
 ## 🎯 Link to Project  
-[Live Link](https://team-deployers.vercel.app/)  
+[Live Link](https://aquify.vercel.app/)  
 
 ## 🛠 Tech Stack  
 - **Frontend:** React.js, Tailwind CSS  
